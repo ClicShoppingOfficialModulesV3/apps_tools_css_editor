@@ -14,6 +14,7 @@ http://monsite/myAdmin/index.php?A&Tools\EditCSS
 
 Activate the module in Tools
 
+See Marketplace for all informations
 Marketplace link : https://www.clicshopping.org/forum/files/file/29-apps_tools_css_editor/
 
 
